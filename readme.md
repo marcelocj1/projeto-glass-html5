@@ -3,7 +3,7 @@
 A revolução do Google está chegando
 
 
-<img src="//_imagens/glass-quadro-homem-mulher.jpg">
+<img src="_imagens/glass-quadro-homem-mulher.jpg">
 
 
 ## License
